@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: chocolate;
+    background-color: chartreuse;
+    text-align: center;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: chocolate;
+     background-color: chartreuse;text-align: center;
+
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: darkblue;
+     background-color: khaki;
+}
+footer{
+    color: darkblue;
+    font: italic;
+    background-color: deeppink;
+}
+
